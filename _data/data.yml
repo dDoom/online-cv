@@ -88,9 +88,7 @@ experiences:
 publications:
     title: Achievements
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      
     papers:
       - title: Apps4all hackathon
         link: "https://habr.com/ru/post/206500/"
