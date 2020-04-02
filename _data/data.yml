@@ -29,7 +29,7 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Mid
+        level: Intermediate
 
     interests:
       - item: Indie games
@@ -47,66 +47,43 @@ career-profile:
       He started working in IT at the age of 17 - during this time he rose from a computer club engineer to technical director 
       and co-owner of development companies with offices on three continents!
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: Bachelor's degree, Information Systems and Technologies
+      university: Ural federal university
+      time: 2011 - 2013
+      details: 
+    - degree: Engineer's degree, Electrical science
+      university: Polytechnic college
+      time: 2000 - 2004
+      details: 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role:  Chief technical officer
+      time: 2019 - Present
+      company: DLF Solutions, Dublin
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+      Headed the development department at a payment and cryptocurrency company.
+        - Team selection
+        - Requirements management
+        - System architecture
+        - Maintenance of infrastructure
+        - Integration with banks and payment systems
+        - Integration with blockchain network and crypto exchanges
+        - PCI DSS Certification
+    - role: Chief technical officer
+      time: 2018 - Present
+      company: Brains from space inc., New-York
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+      Headed the development department at an outsourcing company dealing with machine learning, high load web projects and artificial intelligence.
+        - Neural network education and training
+        - Development and training of machine learning algorithms
+        - Full stack web development
+        - Maintenance of customer infrastructure
+    - role: System architect 
+      time: 2012 - 2015
+      company: Sberbank-Technology, Moscow
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      Worked on core banking division. In the department of system analysis and architecture.
+        - Writing the requirements for the system architecture
+        - Writing functional and non-functional requirements
 projects:
     title: Projects
     intro: >
