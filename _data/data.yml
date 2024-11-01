@@ -1,8 +1,7 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
-  git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
+
 
 sidebar:
     about: True  # set to False or comment line if you want to remove the "how to use?" in the sidebar
