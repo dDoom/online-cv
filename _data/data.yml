@@ -1,125 +1,156 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: True  # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True  # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Anton Nikonorov
-    tagline: Tech Lead
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: AI and Neural Networks Specialist
+    avatar: profile.png  # place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: tony@evil-corp.ru
-    phone: +7 999 560 09 89
-    website: ddoom.github.io/online-cv #do not add http://
+    email: tony@inita.com
+    phone: +1 347 798 7540
+    website:
     linkedin: anton-nikonorov
-    github: dDoom
+    github:
     gitlab:
     bitbucket:
-    twitter: 
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter:
+    stack-overflow:
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    goodreads:
 
     languages:
       - idiom: Russian
-        level: Native
+        level: Native or Bilingual
 
       - idiom: English
-        level: Intermediate
+        level: Professional Working Proficiency
 
     interests:
-      - item: Indie games
+      - item: Artificial Intelligence
         link:
 
-      - item: Travel
+      - item: Neural Networks
         link:
 
-      - item: Hardware
+      - item: System Architecture
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      He started working in IT at the age of 17 - during this time he rose from a computer club engineer to technical director 
-      and co-owner of development companies with offices on three continents!
+      Experienced AI specialist with over 10 years of experience in developing and implementing advanced technological solutions. Founder and leader of several successful companies specializing in neural networks and innovative software. Passionate about making AI more accessible and effective for a broad range of users.
+
 education:
-    - degree: Bachelor's degree, Information Systems and Technologies
-      university: Ural federal university
-      time: 2011 - 2013
-      details: 
-    - degree: Engineer's degree, Electrical science
-      university: Polytechnic college
+    - degree: Bachelor's Degree in Information Systems and Technologies
+      university: Ural Federal University
+      time: 2007 - 2011
+      details: |
+        Acquired fundamental knowledge in information systems, programming, and system architecture.
+          - Specialized in Artificial Intelligence
+          - Participated in research projects
+
+    - degree: Engineer's Degree in Electrical Science
+      university: Polytechnic College
       time: 2000 - 2004
-      details: 
+      details: |
+        Studied electrical engineering and foundational engineering principles, establishing a solid base for technological advancement.
+          - Hands-on training in electrical systems
+          - Participated in technical competitions and projects
+
 experiences:
-    - role:  Chief Executive officer
-      time: 2019 - Present
-      company: DLF Solutions, Dublin
+    - role: Head of Artificial Intelligence
+      time: July 2024 - Present
+      company: Inita, Podgorica, Montenegro
       details: |
-        Headed the development department at a payment and cryptocurrency company.
-          - Team selection
-          - Requirements management
-          - System architecture
-          - Product management
-          - Build relationships with banks and payment systems
-          - Build relationships local regulators
-          - PCI DSS Certification
-          - Fundraising
-    - role: Chief technical officer
-      time: 2018 - Present
-      company: Brains from space inc., New-York
-      details: |
-        Headed the development department at an outsourcing company dealing with machine learning, high load web projects and artificial intelligence.
-          - Neural network education and training
-          - Development and training of machine learning algorithms
-          - Full stack web development
-          - Maintenance of customer infrastructure
-    - role: System architect 
-      time: 2012 - 2015
-      company: Sberbank-Technology, Moscow
-      details: |
-        Worked on core banking division. In the department of system analysis and architecture.
-          - Writing the requirements for the system architecture
-          - Writing functional and non-functional requirements
+        Leading strategic development and implementation of AI technologies in company products.
+          - Managing a team of developers and researchers
+          - Implementing cutting-edge AI solutions to enhance business efficiency
 
-publications:
-    title: Achievements
-    intro: |
-      
-    papers:
-      - title: Apps4all hackathon
-        link: "https://habr.com/ru/post/206500/"
-        conference: Moscow, 2013
+    - role: Chief Technology Officer
+      time: April 2023 - July 2024
+      company: Inita, Podgorica, Montenegro
+      details: |
+        Coordinated technical aspects of projects, ensuring timely and quality delivery.
+          - Developed and executed the company's technical strategy
+          - Optimized development processes and product deployment
 
-      - title: My project "Heatcam" got on Techcrunch.
-        link: "https://techcrunch.com/2014/09/27/we-have-entered-the-golden-age-of-hardware-hacking/"
-        conference: San-Francisco, 2014
+    - role: VP of Research and Development
+      time: August 2022 - May 2023
+      company: NeuraLoom, New York, USA
+      details: |
+        Directed research projects in neural networks and artificial intelligence.
+          - Developed virtual characters for videos and presentations
+          - Integrated AI technologies to improve user experience
+
+    - role: CEO and Founder
+      time: August 2020 - August 2022
+      company: NeuraLoom, New York, USA
+      details: |
+        Founded a company specializing in creating realistic virtual characters using AI technologies.
+          - Devised company growth strategy
+          - Successfully launched products and secured investments
+
+    - role: Founder & CEO
+      time: October 2018 - August 2022
+      company: BRAINS lab., Greater New York City Area
+      details: |
+        Developed comprehensive AI software and web systems for startups and enterprises aiming for rapid market entry.
+          - Managed a team of over 20 developers
+          - Successfully delivered products for clients across various industries
+
+    - role: Founder & CEO
+      time: January 2019 - May 2020
+      company: DLF.Net, Dublin, Ireland
+      details: |
+        Implemented payment processing solutions with EURO stablecoin and fiat gateway.
+          - Developed secure payment systems
+          - Collaborated with financial institutions
+
+    - role: Co-Founder
+      time: October 2018 - January 2019
+      company: MnemoPay, Singapore
+      details: |
+        Worked on innovative payment technologies.
+          - Researched and developed new payment systems
+          - Prepared product for market launch
+
+    - role: Founder and CEO
+      time: May 2014 - January 2019
+      company: AMS LLC, Moscow, Russia
+      details: |
+        Developed new SaaS software for facility and property management.
+          - Created product from inception and brought it to market
+          - Managed development and sales teams
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills & Proficiency
 
     toolset:
-      - name: Python & Flask
-        level: 75%
+      - name: Artificial Intelligence & Machine Learning
+        level: 98%
 
-      - name: Javascript & Node.JS
-        level: 40%
-
-      - name: Linux & Unix
+      - name: Neural Networks
         level: 95%
 
-      - name: HTML5 & CSS
-        level: 70%
+      - name: System Architecture
+        level: 95%
 
-      - name: C++
-        level: 30%
-
-      - name: DevOps & SysOps
+      - name: Software Development
         level: 90%
 
+      - name: Blockchain Technologies
+        level: 85%
+
+      - name: Project Management
+        level: 85%
+
 footer: >
-    Designed with <i class="fas fa-heart"></i>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://inita.com" target="_blank" rel="nofollow">Inita</a>
