@@ -129,6 +129,21 @@ experiences:
           - Created product from inception and brought it to market
           - Managed development and sales teams
 
+awards:
+    title: Awards & Recognitions
+    summary:
+    items:
+      - title: Winner in Category Intel / APPS4ALL Hackathon
+        details: Best Android App for Intel x86 (2013, Moscow, Russia)
+      - title: Winner in Pulsar Venture Capital Competition
+        details: Selected for acceleration with AI startup Cam/Ra (2014, Kazan, Russia)
+      - title: Winner in National Competition "Top 50 Innovation Ideas for Tatarstan"
+        details: Honored for HEATCAM, a real-time infrared diagnostics system; role – inventor & system developer (2014, Kazan, Russia)
+      - title: Winner in Category iDealMachine Award / GoTech Competition
+        details: Led VR/AR training platform as CTO of Interactive Labs; awarded U.S. acceleration grant (2016, Moscow, Russia)
+      - title: Winner in Starta Accelerator
+        details: Founder of NeuraLoom (AI avatars); raised $550K+ in funding (2020, NYC, US)
+
 skills:
     title: Skills & Proficiency
 
