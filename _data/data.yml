@@ -13,7 +13,7 @@ sidebar:
     avatar: profile.png  # place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: tony@inita.com
+    email: tony.mljedi@gmail.com
     phone: +1 347 798 7540
     website:
     linkedin: anton-nikonorov
@@ -31,6 +31,9 @@ sidebar:
 
       - idiom: English
         level: Professional Working Proficiency
+
+      - idiom: Serbian
+        level: Conversational
 
     interests:
       - item: Artificial Intelligence
