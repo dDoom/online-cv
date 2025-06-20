@@ -163,6 +163,29 @@ publications:
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
 
+awards:
+    title: Awards &amp; Recognitions
+    items:
+      - title: Winner in Category Intel / APPS4ALL Hackathon
+        year: 2013
+        awarder: Moscow, Russia
+        details: Best Android App for Intel x86
+      - title: Winner in Pulsar Venture Capital Competition
+        year: 2014
+        awarder: Kazan, Russia
+        details: Selected for acceleration with AI startup Cam/Ra
+      - title: Winner in National Competition "Top 50 Innovation Ideas for Tatarstan"
+        year: 2014
+        awarder: Kazan, Russia
+        details: Honored for HEATCAM, a real-time infrared diagnostics system; role – inventor & system developer.
+      - title: Winner in Category iDealMachine Award / GoTech Competition
+        year: 2016
+        awarder: Moscow, Russia
+        details: Led VR/AR training platform as CTO of Interactive Labs; awarded U.S. acceleration grant.
+      - title: Winner in Starta Accelerator
+        year: 2020
+        awarder: NYC, US
+        details: Founder of NeuraLoom (AI avatars); raised $550K+ in funding
 skills:
     title: Skills &amp; Proficiency
 

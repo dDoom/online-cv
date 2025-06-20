@@ -1,0 +1,35 @@
+{% if site.data.data.awards %}
+<section class="section awards-section">
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-award fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ site.data.data.awards.title }}
+  </h2>
+
+  {% if site.data.data.awards.intro %}
+  <div class="intro">
+      {{ site.data.data.awards.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for award in site.data.data.awards.items %}
+  <div class="item">
+    <div class="meta">
+      <div class="upper-row">
+        <h3 class="job-title">{{ award.title }}</h3>
+        <div class="time">{{ award.year }}</div>
+      </div><!--//upper-row-->
+      <div class="company">{{ award.awarder }}</div>
+    </div><!--//meta-->
+    {% if award.details %}
+    <div class="details">
+      {{ award.details | markdownify }}
+    </div><!--//details-->
+    {% endif %}
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
