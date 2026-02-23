@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Anton Nikonorov
-    tagline: AI and Neural Networks Specialist
+    tagline: AI Executive & Neural Networks Specialist
     avatar: profile.png  # place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -17,7 +17,7 @@ sidebar:
     phone: +1 347 798 7540
     website:
     linkedin: anton-nikonorov
-    github:
+    github: dDoom
     gitlab:
     bitbucket:
     twitter:
@@ -27,146 +27,123 @@ sidebar:
 
     languages:
       - idiom: Russian
-        level: Native or Bilingual
-
+        level: Native
       - idiom: English
-        level: Professional Working Proficiency
-
+        level: Professional
       - idiom: Serbian
         level: Conversational
 
     interests:
       - item: Artificial Intelligence
         link:
-
       - item: Neural Networks
         link:
-
       - item: System Architecture
         link:
 
 career-profile:
-    title: Career Profile
+    title: Professional Summary
     summary: |
-      Experienced AI specialist with over 10 years of experience in developing and implementing advanced technological solutions. Founder and leader of several successful companies specializing in neural networks and innovative software. Passionate about making AI more accessible and effective for a broad range of users.
+      Senior AI Executive with over 10 years of experience bridging the gap between advanced R&D and business strategy. Proven track record of founding and exiting deep-tech startups, securing VC funding ($550k+), and leading distributed engineering teams (20+). Expert in scaling AI solutions from MVP to enterprise production, with deep specialization in Generative AI, Neural Networks, and System Architecture.
 
 education:
     - degree: Bachelor's Degree in Information Systems and Technologies
       university: Ural Federal University
       time: 2007 - 2011
-      details: |
-        Acquired fundamental knowledge in information systems, programming, and system architecture.
-          - Specialized in Artificial Intelligence
-          - Participated in research projects
 
     - degree: Engineer's Degree in Electrical Science
       university: Polytechnic College
       time: 2000 - 2004
-      details: |
-        Studied electrical engineering and foundational engineering principles, establishing a solid base for technological advancement.
-          - Hands-on training in electrical systems
-          - Participated in technical competitions and projects
 
 experiences:
     - role: Head of Artificial Intelligence
       time: July 2024 - Present
-      company: Inita, Podgorica, Montenegro
+      company: Inita, Podgorica, Montenegro (Remote)
       details: |
-        Leading strategic development and implementation of AI technologies in company products.
-          - Managing a team of developers and researchers
-          - Implementing cutting-edge AI solutions to enhance business efficiency
+        Leading the strategic roadmap and deployment of AI agents and LLM-based solutions.
+          - Strategic Leadership: Define and execute the AI product vision, directly managing R&D and engineering teams to integrate GenAI into core business workflows.
+          - Innovation: Spearheading the development of autonomous AI agents to automate complex business processes, significantly enhancing operational efficiency.
+          - Architecture: Architecting scalable ML pipelines that support high-load production environments.
 
-    - role: Chief Technology Officer
+    - role: Chief Technology Officer (CTO)
       time: April 2023 - July 2024
-      company: Inita, Podgorica, Montenegro
+      company: Inita, Podgorica, Montenegro (Remote)
       details: |
-        Coordinated technical aspects of projects, ensuring timely and quality delivery.
-          - Developed and executed the company's technical strategy
-          - Optimized development processes and product deployment
+        Orchestrated technical strategy and engineering operations for a fast-growing tech company.
+          - Delivery: Optimized the entire SDLC, reducing time-to-market for key product features.
+          - Team Management: Aligned distributed development teams with business goals, ensuring rigorous code quality and architectural consistency.
 
     - role: VP of Research and Development
       time: August 2022 - May 2023
       company: NeuraLoom, New York, USA
       details: |
-        Directed research projects in neural networks and artificial intelligence.
-          - Developed virtual characters for videos and presentations
-          - Integrated AI technologies to improve user experience
+        Directed deep-tech research in synthetic media and digital humans.
+          - R&D Leadership: Led the creation of high-fidelity virtual characters, overseeing the transition from research papers to production-ready neural rendering models.
+          - Product Integration: Successfully integrated proprietary AI models into user-facing applications, improving user engagement metrics.
 
-    - role: CEO and Founder
+    - role: Founder & CEO
       time: August 2020 - August 2022
       company: NeuraLoom, New York, USA
       details: |
-        Founded a company specializing in creating realistic virtual characters using AI technologies.
-          - Devised company growth strategy
-          - Successfully launched products and secured investments
+        Founded a Generative AI platform for hyper-realistic virtual avatars.
+          - Fundraising: Secured $550,000+ in pre-seed funding and successfully completed the Starta Accelerator program (NYC).
+          - Strategy: Built the company from zero to one, including product validation, hiring the core team, and defining the Go-To-Market strategy.
+          - Product: Launched the MVP of a text-to-video generation platform ahead of major market competitors.
 
     - role: Founder & CEO
       time: October 2018 - August 2022
       company: BRAINS lab., Greater New York City Area
       details: |
-        Developed comprehensive AI software and web systems for startups and enterprises aiming for rapid market entry.
-          - Managed a team of over 20 developers
-          - Successfully delivered products for clients across various industries
+        Built a boutique software engineering firm focused on AI and Web3 solutions.
+          - Scaling: Scaled the agency to a team of 20+ developers and designers.
+          - Delivery: Delivered comprehensive software ecosystems for startups and enterprises, enabling rapid market entry for clients in FinTech and EdTech.
 
     - role: Founder & CEO
       time: January 2019 - May 2020
       company: DLF.Net, Dublin, Ireland
       details: |
-        Implemented payment processing solutions with EURO stablecoin and fiat gateway.
-          - Developed secure payment systems
-          - Collaborated with financial institutions
+        - Architected and launched a secure payment gateway bridging Fiat and Euro-pegged stablecoins.
+        - Established partnerships with European financial institutions to ensure compliance and liquidity.
 
-    - role: Co-Founder
-      time: October 2018 - January 2019
-      company: MnemoPay, Singapore
-      details: |
-        Worked on innovative payment technologies.
-          - Researched and developed new payment systems
-          - Prepared product for market launch
-
-    - role: Founder and CEO
+    - role: Founder & CEO
       time: May 2014 - January 2019
       company: AMS LLC, Moscow, Russia
       details: |
-        Developed new SaaS software for facility and property management.
-          - Created product from inception and brought it to market
-          - Managed development and sales teams
+        - Bootstrapped a SaaS platform for facility management (PropTech), overseeing the full lifecycle from code to sales.
 
 awards:
-    title: Awards & Recognitions
+    title: Selected Awards & Honors
     summary:
     items:
-      - title: Winner in Category Intel / APPS4ALL Hackathon
-        details: Best Android App for Intel x86 (2013, Moscow, Russia)
-      - title: Winner in Pulsar Venture Capital Competition
-        details: Selected for acceleration with AI startup Cam/Ra (2014, Kazan, Russia)
-      - title: Winner in National Competition "Top 50 Innovation Ideas for Tatarstan"
-        details: Honored for HEATCAM, a real-time infrared diagnostics system; role – inventor & system developer (2014, Kazan, Russia)
-      - title: Winner in Category iDealMachine Award / GoTech Competition
-        details: Led VR/AR training platform as CTO of Interactive Labs; awarded U.S. acceleration grant (2016, Moscow, Russia)
-      - title: Winner in Starta Accelerator
-        details: Founder of NeuraLoom (AI avatars); raised $550K+ in funding (2020, NYC, US)
+      - title: Starta Accelerator Alumni
+        details: Successfully raised capital for NeuraLoom (2020, NYC)
+      - title: iDealMachine Award / GoTech
+        details: Awarded U.S. acceleration grant for VR/AR training platform (2016)
+      - title: Top 50 Innovation Ideas
+        details: Honored for HEATCAM, a Real-time infrared diagnostics system (2014)
+      - title: Intel / APPS4ALL Hackathon Winner
+        details: Best Android App for Intel x86 architecture (2013)
 
 skills:
-    title: Skills & Proficiency
+    title: Skills & Expertise
 
     toolset:
-      - name: Artificial Intelligence & Machine Learning
-        level: 98%
+      - name: Artificial Intelligence (GenAI, LLMs)
+        level: 95%
 
-      - name: Neural Networks
+      - name: Neural Networks (PyTorch, TensorFlow)
         level: 95%
 
       - name: System Architecture
         level: 95%
 
-      - name: Software Development
+      - name: Python, Linux/Unix
         level: 90%
 
-      - name: Blockchain Technologies
-        level: 85%
+      - name: R&D Management & Tech Strategy
+        level: 90%
 
-      - name: Project Management
+      - name: Team Scaling & VC Fundraising
         level: 85%
 
 footer: >
