@@ -56,14 +56,26 @@ education:
       time: 2000 - 2004
 
 experiences:
+    - role: Independent AI Consultant
+      time: January 2025 - Present
+      company: Self-Employed
+      details: |
+        Providing expert consulting and engineering services in advanced AI, large language models, and agent-based systems.
+          - LLM & Infrastructure: Designing and implementing RAG architectures, fine-tuning LLMs for specific tasks, and managing high-performance GPU clusters.
+          - Multi-Agent Systems: Building and reproducing sophisticated multi-agent environments to orchestrate complex workflows.
+          - Edge AI & Avatars: Trained and optimized a high-quality real-time avatar model. Successfully quantized and deployed the model for edge devices (mobile phones) utilizing WebGPU and hardware-accelerated solutions.
+          - AI-Assisted Engineering: Consulting teams on the integration of multi-agent coding tools (Claude Code, Cursor) and establishing LLM-driven development workflows to accelerate product delivery and elevate code quality.
+
     - role: Head of Artificial Intelligence
-      time: July 2024 - Present
+      time: July 2024 - January 2025
       company: Inita, Podgorica, Montenegro (Remote)
       details: |
         Leading the strategic roadmap and deployment of AI agents and LLM-based solutions.
           - Strategic Leadership: Define and execute the AI product vision, directly managing R&D and engineering teams to integrate GenAI into core business workflows.
           - Innovation: Spearheading the development of autonomous AI agents to automate complex business processes, significantly enhancing operational efficiency.
           - Architecture: Architecting scalable ML pipelines that support high-load production environments.
+          - Generative AI Production: Led R&D and deployment for image and website generation, scaling to tens of thousands of users. Trained custom models and LoRAs, seamlessly integrating them into large-scale production systems.
+          - AI-Driven Development: Pioneered the adoption of AI coding agents across engineering workflows, leveraging LLM-based code generation (Cursor, Claude) to accelerate the SDLC and improve product quality over 3+ years.
 
     - role: Chief Technology Officer (CTO)
       time: April 2023 - July 2024
